@@ -1,4 +1,4 @@
-# Project 2: Self-Balancing Binary Search Trees
+# Self-Balancing Binary Search Trees
 
 A comparative study of three binary search tree implementations in C++, analyzing their performance characteristics through insertion, search, and deletion operations.
 
